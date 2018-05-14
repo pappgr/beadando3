@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1461948458 source:f:\codeblocks\beadandó 3\beadando3\fel.cpp
+	"Fel.h"
+	"Szamkijelzo.h"
+	"vector"
+
+1461948458 f:\codeblocks\beadandó 3\beadando3\fel.h
+	"Gomb.h"
+
+1461869488 f:\codeblocks\beadandó 3\beadando3\gomb.h
+	"Widget.h"
+
+1526279170 f:\codeblocks\beadandó 3\beadando3\widget.h
+	"graphics.hpp"
+
+1330557110 f:\codeblocks\beadandó 3\beadando3\include\graphics.hpp
+	<string>
+
+1526279170 f:\codeblocks\beadandó 3\beadando3\szamkijelzo.h
+	"Widget.h"
+
+1461446008 source:f:\codeblocks\beadandó 3\beadando3\gomb.cpp
+	"Gomb.h"
+
+1461965570 source:f:\codeblocks\beadandó 3\beadando3\gorgeto.cpp
+	"Gorgeto.h"
+
+1461965008 f:\codeblocks\beadandó 3\beadando3\gorgeto.h
+	"Widget.h"
+
+1461948458 source:f:\codeblocks\beadandó 3\beadando3\le.cpp
+	"Le.h"
+
+1461948458 f:\codeblocks\beadandó 3\beadando3\le.h
+	"Gomb.h"
+
+1461948458 source:f:\codeblocks\beadandó 3\beadando3\listagomb.cpp
+	"ListaGomb.h"
+
+1461960124 f:\codeblocks\beadandó 3\beadando3\listagomb.h
+	"Widget.h"
+
+1461964792 source:f:\codeblocks\beadandó 3\beadando3\listakezelo.cpp
+	"Listakezelo.h"
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Listakijelzo.h"
+	"ListaGomb.h"
+	"Gorgeto.h"
+	<vector>
+	<fstream>
+	<iostream>
+
+1461960444 f:\codeblocks\beadandó 3\beadando3\listakezelo.h
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Listakijelzo.h"
+	"ListaGomb.h"
+	"Gorgeto.h"
+	<vector>
+
+1461952428 f:\codeblocks\beadandó 3\beadando3\listakijelzo.h
+	"vector"
+	"Widget.h"
+
+1523850399 source:f:\codeblocks\beadandó 3\beadando3\listakijelzo.cpp
+	"Listakijelzo.h"
+	"vector"
+
+1526279170 source:f:\codeblocks\beadandó 3\beadando3\main.cpp
+	"Palya.h"
+
+1526279170 f:\codeblocks\beadandó 3\beadando3\szamkezelo.h
+	"Widget.h"
+	"Szamkijelzo.h"
+
+1461965416 source:f:\codeblocks\beadandó 3\beadando3\szamkezelo.cpp
+	"Szamkezelo.h"
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Szamkijelzo.h"
+	<iostream>
+	<fstream>
+
+1461948572 source:f:\codeblocks\beadandó 3\beadando3\szamkijelzo.cpp
+	"Szamkijelzo.h"
+	<sstream>
+	"iostream"
+
+1526269340 source:f:\codeblocks\beadandó 3\beadando3\widget.cpp
+	"Widget.h"
+
+1525688170 source:f:\codeblocks\beadandó 3\beadando3\uj\boxok.cpp
+	"Boxok.hpp"
+	"graphics.hpp"
+	<iostream>
+	<sstream>
+
+1525688170 f:\codeblocks\beadandó 3\beadando3\uj\boxok.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1525688170 f:\codeblocks\beadandó 3\beadando3\uj\widgets.hpp
+	"graphics.hpp"
+
+1525688170 source:f:\codeblocks\beadandó 3\beadando3\uj\main.cpp
+	"Boxok.hpp"
+	"Menu.hpp"
+	"graphics.hpp"
+	"Textbox.hpp"
+	<vector>
+	<iostream>
+	<fstream>
+
+1525688170 f:\codeblocks\beadandó 3\beadando3\uj\menu.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+
+1525688170 f:\codeblocks\beadandó 3\beadando3\uj\textbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1525688170 source:f:\codeblocks\beadandó 3\beadando3\uj\menu.cpp
+	"menu.hpp"
+	"graphics.hpp"
+	<iostream>
+	<sstream>
+	<vector>
+
+1525688170 source:f:\codeblocks\beadandó 3\beadando3\uj\textbox.cpp
+	"Textbox.hpp"
+	"graphics.hpp"
+	<iostream>
+
+1525688170 source:f:\codeblocks\beadandó 3\beadando3\uj\widgets.cpp
+	"widgets.hpp"
+
+1526275928 source:f:\codeblocks\beadandó 3\beadando3\mezo.cpp
+	"Mezo.h"
+	"iostream"
+
+1526279170 f:\codeblocks\beadandó 3\beadando3\mezo.h
+	"Widget.h"
+
+1526279170 f:\codeblocks\beadandó 3\beadando3\palya.h
+	"graphics.hpp"
+	"Widget.h"
+	"Mezo.h"
+
+1526274674 source:f:\codeblocks\beadandó 3\beadando3\palya.cpp
+	"Palya.h"
+	"Widget.h"
+	<iostream>
+	"stdlib.h"
+	"stdio.h"
+
+1526278693 source:f:\codeblocks\beadandó 3\beadando3\hajo.cpp
+	"Hajo.h"
+	"iostream"
+
+1526279170 f:\codeblocks\beadandó 3\beadando3\hajo.h
+	"Widget.h"
+

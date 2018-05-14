@@ -1,0 +1,511 @@
+# depslib dependency file v1.0
+1460833734 source:e:\benjamin - asus\pazmany\bev programozas 2\graphicsproject\main.cpp
+	"graphics.hpp"
+	"math.h"
+	"iostream"
+
+1330557110 e:\benjamin - asus\pazmany\bev programozas 2\graphicsproject\include\graphics.hpp
+	<string>
+
+1423321418 source:e:\benjamin - asus\pazmany\bev programozas 2\graphicsproject\01_tabla.cpp
+	"graphics.hpp"
+	<iostream>
+
+1422218658 source:e:\benjamin - asus\pazmany\bev programozas 2\graphicsproject\02_kor.cpp
+	<iostream>
+	"graphics.hpp"
+
+1422221418 source:e:\benjamin - asus\pazmany\bev programozas 2\graphicsproject\03_spiral.cpp
+	<iostream>
+	<cmath>
+	"graphics.hpp"
+
+1423388986 source:e:\benjamin - asus\pazmany\bev programozas 2\graphicsproject\04_tortvonal.cpp
+	"graphics.hpp"
+
+1423388608 source:e:\benjamin - asus\pazmany\bev programozas 2\graphicsproject\05_doboz.cpp
+	"graphics.hpp"
+
+1461965740 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\main.cpp
+	"graphics.hpp"
+	"Szamkezelo.h"
+	"Listakezelo.h"
+	<vector>
+
+1330557110 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\include\graphics.hpp
+	<string>
+
+1461869055 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\widget.cpp
+	"Widget.h"
+
+1461947964 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\widget.h
+	"graphics.hpp"
+
+1461446006 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\gomb.cpp
+	"Gomb.h"
+
+1461869486 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\gomb.h
+	"Widget.h"
+
+1461965414 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\szamkezelo.cpp
+	"Szamkezelo.h"
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Szamkijelzo.h"
+	<iostream>
+	<fstream>
+
+1461965424 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\szamkezelo.h
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Szamkijelzo.h"
+
+1461446006 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\gomb.cpp
+	"Gomb.h"
+
+1461869486 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\gomb.h
+	"Widget.h"
+
+1461877744 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\widget.h
+	"graphics.hpp"
+
+1330557110 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\include\graphics.hpp
+	<string>
+
+1461923074 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\main.cpp
+	"graphics.hpp"
+	"Szamkezelo.h"
+	"Listakezelo.h"
+	<vector>
+
+1461888208 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\szamkezelo.h
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Szamkijelzo.h"
+
+1461923523 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\szamkezelo.cpp
+	"Szamkezelo.h"
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Szamkijelzo.h"
+
+1461869055 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\widget.cpp
+	"Widget.h"
+
+1461948457 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\fel.cpp
+	"Fel.h"
+	"Szamkijelzo.h"
+	"vector"
+
+1461948457 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\fel.h
+	"Gomb.h"
+
+1461948457 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\le.cpp
+	"Le.h"
+
+1461948457 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\le.h
+	"Gomb.h"
+
+1461948570 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\szamkijelzo.cpp
+	"Szamkijelzo.h"
+	<sstream>
+	"iostream"
+
+1461948570 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\szamkijelzo.h
+	"Widget.h"
+
+1461923420 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\fel.cpp
+	"Fel.h"
+	"Szamkijelzo.h"
+	"vector"
+
+1461879849 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\fel.h
+	"Gomb.h"
+
+1461877860 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\szamkijelzo.h
+	"Widget.h"
+
+1461923494 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\le.cpp
+	"Le.h"
+
+1461881691 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\le.h
+	"Gomb.h"
+
+1461877531 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\szamkijelzo.cpp
+	"Szamkijelzo.h"
+	<sstream>
+	"iostream"
+
+1461964791 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\listakezelo.cpp
+	"Listakezelo.h"
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Listakijelzo.h"
+	"ListaGomb.h"
+	"Gorgeto.h"
+	<vector>
+	<fstream>
+	<iostream>
+
+1461960442 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\listakezelo.h
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Listakijelzo.h"
+	"ListaGomb.h"
+	"Gorgeto.h"
+	<vector>
+
+1461952427 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\listakijelzo.h
+	"vector"
+	"Widget.h"
+
+1461953205 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\listakijelzo.cpp
+	"Listakijelzo.h"
+	"vector"
+
+1461948457 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\listagomb.cpp
+	"ListaGomb.h"
+
+1461960123 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\listagomb.h
+	"Widget.h"
+
+1461945094 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\listagomb.cpp
+	"ListaGomb.h"
+
+1461938265 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\listagomb.h
+	"Widget.h"
+
+1461945043 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\listakezelo.cpp
+	"Listakezelo.h"
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Listakijelzo.h"
+	"ListaGomb.h"
+	<vector>
+
+1461942034 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\listakezelo.h
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Listakijelzo.h"
+	"ListaGomb.h"
+	<vector>
+
+1461943946 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\listakijelzo.h
+	"vector"
+	"Widget.h"
+
+1461945043 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\listakijelzo.cpp
+	"Listakijelzo.h"
+	"vector"
+
+1461965568 source:e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\gorgeto.cpp
+	"Gorgeto.h"
+
+1461965007 e:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\gorgeto.h
+	"Widget.h"
+
+1461948458 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\fel.cpp
+	"Fel.h"
+	"Szamkijelzo.h"
+	"vector"
+
+1461948458 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\fel.h
+	"Gomb.h"
+
+1461869488 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\gomb.h
+	"Widget.h"
+
+1461947966 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\widget.h
+	"graphics.hpp"
+
+1330557110 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\include\graphics.hpp
+	<string>
+
+1461948572 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\szamkijelzo.h
+	"Widget.h"
+
+1461446008 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\gomb.cpp
+	"Gomb.h"
+
+1461965570 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\gorgeto.cpp
+	"Gorgeto.h"
+
+1461965008 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\gorgeto.h
+	"Widget.h"
+
+1461948458 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\le.cpp
+	"Le.h"
+
+1461948458 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\le.h
+	"Gomb.h"
+
+1461948458 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\listagomb.cpp
+	"ListaGomb.h"
+
+1461960124 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\listagomb.h
+	"Widget.h"
+
+1461964792 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\listakezelo.cpp
+	"Listakezelo.h"
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Listakijelzo.h"
+	"ListaGomb.h"
+	"Gorgeto.h"
+	<vector>
+	<fstream>
+	<iostream>
+
+1461960444 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\listakezelo.h
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Listakijelzo.h"
+	"ListaGomb.h"
+	"Gorgeto.h"
+	<vector>
+
+1461952428 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\listakijelzo.h
+	"vector"
+	"Widget.h"
+
+1461953206 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\listakijelzo.cpp
+	"Listakijelzo.h"
+	"vector"
+
+1461965742 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\main.cpp
+	"graphics.hpp"
+	"Szamkezelo.h"
+	"Listakezelo.h"
+	<vector>
+
+1461965426 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\szamkezelo.h
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Szamkijelzo.h"
+
+1461965416 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\szamkezelo.cpp
+	"Szamkezelo.h"
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Szamkijelzo.h"
+	<iostream>
+	<fstream>
+
+1461948572 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\szamkijelzo.cpp
+	"Szamkijelzo.h"
+	<sstream>
+	"iostream"
+
+1461869056 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2\widget.cpp
+	"Widget.h"
+
+1461948458 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\fel.cpp
+	"Fel.h"
+	"Szamkijelzo.h"
+	"vector"
+
+1461948458 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\fel.h
+	"Gomb.h"
+
+1461869488 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\gomb.h
+	"Widget.h"
+
+1464469814 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\widget.h
+	"graphics.hpp"
+
+1330557110 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\include\graphics.hpp
+	<string>
+
+1461948572 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\szamkijelzo.h
+	"Widget.h"
+
+1461446008 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\gomb.cpp
+	"Gomb.h"
+
+1461965570 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\gorgeto.cpp
+	"Gorgeto.h"
+
+1461965008 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\gorgeto.h
+	"Widget.h"
+
+1461948458 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\le.cpp
+	"Le.h"
+
+1461948458 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\le.h
+	"Gomb.h"
+
+1461948458 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\listagomb.cpp
+	"ListaGomb.h"
+
+1461960124 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\listagomb.h
+	"Widget.h"
+
+1461964792 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\listakezelo.cpp
+	"Listakezelo.h"
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Listakijelzo.h"
+	"ListaGomb.h"
+	"Gorgeto.h"
+	<vector>
+	<fstream>
+	<iostream>
+
+1461960444 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\listakezelo.h
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Listakijelzo.h"
+	"ListaGomb.h"
+	"Gorgeto.h"
+	<vector>
+
+1461952428 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\listakijelzo.h
+	"vector"
+	"Widget.h"
+
+1461953206 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\listakijelzo.cpp
+	"Listakijelzo.h"
+	"vector"
+
+1461965742 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\main.cpp
+	"graphics.hpp"
+	"Szamkezelo.h"
+	"Listakezelo.h"
+	<vector>
+
+1461965426 c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\szamkezelo.h
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Szamkijelzo.h"
+
+1461965416 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\szamkezelo.cpp
+	"Szamkezelo.h"
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Szamkijelzo.h"
+	<iostream>
+	<fstream>
+
+1461948572 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\szamkijelzo.cpp
+	"Szamkijelzo.h"
+	<sstream>
+	"iostream"
+
+1461869056 source:c:\benjamin - asus\pazmany\bev programozas 2\beadandó 2 biztonsági\widget.cpp
+	"Widget.h"
+
+1461948458 source:f:\codeblocks\beadandó 2 eredeti\fel.cpp
+	"Fel.h"
+	"Szamkijelzo.h"
+	"vector"
+
+1461948458 f:\codeblocks\beadandó 2 eredeti\fel.h
+	"Gomb.h"
+
+1461869488 f:\codeblocks\beadandó 2 eredeti\gomb.h
+	"Widget.h"
+
+1464469816 f:\codeblocks\beadandó 2 eredeti\widget.h
+	"graphics.hpp"
+
+1330557110 f:\codeblocks\beadandó 2 eredeti\include\graphics.hpp
+	<string>
+
+1461948572 f:\codeblocks\beadandó 2 eredeti\szamkijelzo.h
+	"Widget.h"
+
+1461446008 source:f:\codeblocks\beadandó 2 eredeti\gomb.cpp
+	"Gomb.h"
+
+1461965570 source:f:\codeblocks\beadandó 2 eredeti\gorgeto.cpp
+	"Gorgeto.h"
+
+1461965008 f:\codeblocks\beadandó 2 eredeti\gorgeto.h
+	"Widget.h"
+
+1461948458 source:f:\codeblocks\beadandó 2 eredeti\le.cpp
+	"Le.h"
+
+1461948458 f:\codeblocks\beadandó 2 eredeti\le.h
+	"Gomb.h"
+
+1461948458 source:f:\codeblocks\beadandó 2 eredeti\listagomb.cpp
+	"ListaGomb.h"
+
+1461960124 f:\codeblocks\beadandó 2 eredeti\listagomb.h
+	"Widget.h"
+
+1461964792 source:f:\codeblocks\beadandó 2 eredeti\listakezelo.cpp
+	"Listakezelo.h"
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Listakijelzo.h"
+	"ListaGomb.h"
+	"Gorgeto.h"
+	<vector>
+	<fstream>
+	<iostream>
+
+1461960444 f:\codeblocks\beadandó 2 eredeti\listakezelo.h
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Listakijelzo.h"
+	"ListaGomb.h"
+	"Gorgeto.h"
+	<vector>
+
+1461952428 f:\codeblocks\beadandó 2 eredeti\listakijelzo.h
+	"vector"
+	"Widget.h"
+
+1461953206 source:f:\codeblocks\beadandó 2 eredeti\listakijelzo.cpp
+	"Listakijelzo.h"
+	"vector"
+
+1522336478 source:f:\codeblocks\beadandó 2 eredeti\main.cpp
+	"graphics.hpp"
+	"Szamkezelo.h"
+	"Listakezelo.h"
+	<vector>
+
+1461965426 f:\codeblocks\beadandó 2 eredeti\szamkezelo.h
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Szamkijelzo.h"
+
+1461965416 source:f:\codeblocks\beadandó 2 eredeti\szamkezelo.cpp
+	"Szamkezelo.h"
+	"Widget.h"
+	"Fel.h"
+	"Le.h"
+	"Szamkijelzo.h"
+	<iostream>
+	<fstream>
+
+1461948572 source:f:\codeblocks\beadandó 2 eredeti\szamkijelzo.cpp
+	"Szamkijelzo.h"
+	<sstream>
+	"iostream"
+
+1461869056 source:f:\codeblocks\beadandó 2 eredeti\widget.cpp
+	"Widget.h"
+
